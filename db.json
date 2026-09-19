@@ -1,0 +1,556 @@
+{
+  "applications": [
+    {
+      "firstName": "albashir",
+      "lastName": "beti",
+      "email": "albashirmaigari@gmail.com",
+      "phone": "08168427066",
+      "dateOfBirth": "2004-03-25",
+      "address": "flat 122b",
+      "schoolName": "alfurqan int academy",
+      "examType": "WAEC",
+      "examYear": "2020",
+      "course": "computer",
+      "jambScore": "185",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "B2"
+        },
+        {
+          "subject": "Physics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "B3"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Further Mathematics",
+          "grade": "B3"
+        },
+        {
+          "subject": "Data Processing",
+          "grade": "B2"
+        },
+        {
+          "subject": "Civic Education",
+          "grade": "B2"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "08065448789",
+      "guardianEmail": "hauwahamzazabi111@gmail.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "flat 122b",
+      "applicationId": "APP-2026-001",
+      "status": "Approved",
+      "submittedDate": "September 17, 2026",
+      "id": "m5V4Vdl2Vuw"
+    },
+    {
+      "firstName": "aisha",
+      "lastName": "maigari beti",
+      "email": "aishamaigaribeti@gmail.com",
+      "phone": "08044657898",
+      "dateOfBirth": "2013-02-14",
+      "address": "122b",
+      "schoolName": "i scholars",
+      "examType": "WAEC",
+      "examYear": "2027",
+      "course": "computer",
+      "jambScore": "228",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "B2"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Physics",
+          "grade": "B2"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "B3"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Civic Education",
+          "grade": "B2"
+        },
+        {
+          "subject": "Further Mathematics",
+          "grade": "B3"
+        },
+        {
+          "subject": "Data Processing",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "08065448789",
+      "guardianEmail": "hauwahamzazabi111@gmail.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-001",
+      "status": "Approved",
+      "submittedDate": "September 17, 2026",
+      "id": "BdU8sFN8llA"
+    },
+    {
+      "firstName": "hajara",
+      "lastName": "maigari",
+      "email": "hajara@example.com",
+      "phone": "08036204579",
+      "dateOfBirth": "2006-12-07",
+      "address": "122b",
+      "schoolName": "sunshine ",
+      "examType": "WAEC",
+      "examYear": "2024",
+      "course": "english",
+      "jambScore": "197",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Physics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "A1"
+        },
+        {
+          "subject": "Biology",
+          "grade": "B2"
+        },
+        {
+          "subject": "Agricultural Science",
+          "grade": "B2"
+        },
+        {
+          "subject": "Economics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Accounting",
+          "grade": "B2"
+        },
+        {
+          "subject": "Commerce",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "08165448889",
+      "guardianEmail": "hauwahamzazabi111@example.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789664897765",
+      "status": "Approved",
+      "submittedDate": "September 17, 2026",
+      "id": "2yhag40nOgk"
+    },
+    {
+      "firstName": "ahmad",
+      "lastName": "ahmed",
+      "email": "ahmad@example.com",
+      "phone": "08058576749",
+      "dateOfBirth": "2000-01-01",
+      "address": "122b",
+      "schoolName": "AIA",
+      "examType": "WAEC",
+      "examYear": "2020",
+      "course": "agric",
+      "jambScore": "130",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Physics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "A1"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Agricultural Science",
+          "grade": "A1"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Civic Education",
+          "grade": "A1"
+        },
+        {
+          "subject": "Home Economics",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "080746467857",
+      "guardianEmail": "hauwa@example.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789809003003",
+      "status": "Rejected",
+      "submittedDate": "September 19, 2026",
+      "id": "obzbJPcZdxU"
+    },
+    {
+      "firstName": "ahmed",
+      "lastName": "ahmed",
+      "email": "ahmad@example.com",
+      "phone": "09038747457",
+      "dateOfBirth": "2000-01-01",
+      "address": "122b",
+      "schoolName": "AIA",
+      "examType": "WAEC",
+      "examYear": "2020",
+      "course": "maths",
+      "jambScore": "186",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Physics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "A1"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Economics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Further Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Hausa",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "09086678657",
+      "guardianEmail": "hauwa@example.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789809278768",
+      "status": "Approved",
+      "submittedDate": "September 19, 2026",
+      "id": "Q8cnEa1WFIo"
+    },
+    {
+      "firstName": "ahmad",
+      "lastName": "isah",
+      "email": "ahmad@example.com",
+      "phone": "09075656488",
+      "dateOfBirth": "2000-01-01",
+      "nin": "75854367231",
+      "state": "Bauchi",
+      "lga": "Toro",
+      "address": "122b",
+      "schoolName": "aia",
+      "examType": "NECO",
+      "examYear": "2020",
+      "course": "biology",
+      "jambScore": "168",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "B2"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "B3"
+        },
+        {
+          "subject": "Physics",
+          "grade": "B2"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "B2"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Economics",
+          "grade": "B3"
+        },
+        {
+          "subject": "Agricultural Science",
+          "grade": "B2"
+        },
+        {
+          "subject": "Geography",
+          "grade": "B2"
+        },
+        {
+          "subject": "Hausa",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "070785587646",
+      "guardianEmail": "hauwa@example.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789812638363",
+      "status": "Rejected",
+      "submittedDate": "September 19, 2026",
+      "id": "Lube_oSGpiE"
+    },
+    {
+      "firstName": "john",
+      "lastName": "sam",
+      "email": "john@example.com",
+      "phone": "09058765899",
+      "dateOfBirth": "2001-01-01",
+      "nin": "98877775757",
+      "state": "Kano",
+      "lga": "Kano Municipal",
+      "address": "122b",
+      "schoolName": "AIA",
+      "examType": "NABTEB",
+      "examYear": "2020",
+      "course": "computer",
+      "jambScore": "189",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Physics",
+          "grade": "B2"
+        },
+        {
+          "subject": "Data Processing",
+          "grade": "A1"
+        },
+        {
+          "subject": "Further Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "B2"
+        },
+        {
+          "subject": "Biology",
+          "grade": "A1"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Hausa",
+          "grade": "B2"
+        }
+      ],
+      "guardianName": "marry",
+      "guardianPhone": "08057658575",
+      "guardianEmail": "marry@example.com",
+      "guardianRelationship": "mother",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789823306154",
+      "status": "Approved",
+      "submittedDate": "September 19, 2026",
+      "id": "VDrXfqeKTvY"
+    },
+    {
+      "firstName": "noah",
+      "lastName": "usman",
+      "email": "noam@example.com",
+      "phone": "090577558686",
+      "dateOfBirth": "2001-01-01",
+      "nin": "98786768676",
+      "state": "Bauchi",
+      "lga": "Tafawa Balewa",
+      "address": "122b",
+      "schoolName": "aia",
+      "examType": "NECO",
+      "examYear": "2020",
+      "course": "agric",
+      "jambScore": "167",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "C4"
+        },
+        {
+          "subject": "Physics",
+          "grade": "B3"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "A1"
+        },
+        {
+          "subject": "Biology",
+          "grade": "C5"
+        },
+        {
+          "subject": "Agricultural Science",
+          "grade": "B3"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "A1"
+        },
+        {
+          "subject": "Civic Education",
+          "grade": "A1"
+        },
+        {
+          "subject": "Hausa",
+          "grade": "B2"
+        }
+      ],
+      "guardianName": "maryam",
+      "guardianPhone": "07067877575",
+      "guardianEmail": "maryam@example.com",
+      "guardianRelationship": "aunty",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789823533261",
+      "status": "Under Review",
+      "submittedDate": "September 19, 2026",
+      "id": "-FPL_eVOZzU"
+    },
+    {
+      "firstName": "khalid",
+      "lastName": "musa",
+      "email": "khalid@example.com",
+      "phone": "09057567584",
+      "dateOfBirth": "2002-01-01",
+      "nin": "89787585763",
+      "state": "Kaduna",
+      "lga": "Kaduna South",
+      "address": "122b",
+      "schoolName": "aia",
+      "examType": "NECO",
+      "examYear": "2020",
+      "course": "chemistry",
+      "jambScore": "194",
+      "oLevelSubjects": [
+        {
+          "subject": "English Language",
+          "grade": "A1"
+        },
+        {
+          "subject": "Mathematics",
+          "grade": "B2"
+        },
+        {
+          "subject": "Physics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Chemistry",
+          "grade": "A1"
+        },
+        {
+          "subject": "Biology",
+          "grade": "B3"
+        },
+        {
+          "subject": "Computer Studies",
+          "grade": "B2"
+        },
+        {
+          "subject": "Further Mathematics",
+          "grade": "A1"
+        },
+        {
+          "subject": "Data Processing",
+          "grade": "A1"
+        },
+        {
+          "subject": "Hausa",
+          "grade": "A1"
+        }
+      ],
+      "guardianName": "hauwa",
+      "guardianPhone": "08055674874",
+      "guardianEmail": "hauwa@example.com",
+      "guardianRelationship": "aunty",
+      "guardianAddress": "122b",
+      "applicationId": "APP-2026-1789825796984",
+      "status": "Approved",
+      "submittedDate": "September 19, 2026",
+      "id": "E_KX9Zjqt6A"
+    }
+  ]
+}
